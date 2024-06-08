@@ -1,9 +1,7 @@
 # project
  # Hospital Management System.
     #### Video Demo:  <URL HERE>
-    #### Description:
-    
-The Hospital Management System is an application built with Python that aims to streamline hospital operations by efficiently managing patient records, doctor schedules, and appointment bookings.
+    #### Description: The Hospital Management System is an application built with Python that aims to streamline hospital operations by efficiently managing patient records, doctor schedules, and appointment bookings.
 
 ## Key Features
 1. **User Authentication**: Users can log in using their credentials to access different functionalities based on their roles (admin, doctor, receptionist).
