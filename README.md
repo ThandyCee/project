@@ -22,6 +22,8 @@ Data Persistence: The data about patients, doctors and appointments are saved in
 
 project.py : python script that has the main functions of the application; user authentication, adding/editing/viewing/deleting patients and doctors and booking/ viewing/ updating or deleting appointments.
 
+test_project.py: python script thas has the function of testing whether the project.py functions work as intended.
+
 requirements.txt: List of Python packages needed for running the application, which also include inflect and pytest.
 
 data/: A folder that keeps JSON files where patient, doctor and appointment details are stored.
