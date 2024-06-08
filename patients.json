@@ -1,1 +1,22 @@
-
+[
+    {
+        "name": "Lillian Dube",
+        "age": 35,
+        "dob": "1989-05-15"
+    },
+    {
+        "name": "Mckenzie Ncube",
+        "age": 45,
+        "dob": "1979-10-21"
+    },
+    {
+        "name": "John Doe",
+        "age": "30",
+        "dob": "1990-01-01"
+    },
+    {
+        "name": "Mickey Mouse",
+        "age": "30",
+        "dob": "1990-01-01"
+    }
+]
