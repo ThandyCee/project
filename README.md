@@ -14,7 +14,7 @@
 
 
  # Hospital Management System.
-    #### Video Demo:  <URL HERE>
+    #### Video Demo:  <https://youtu.be/t35mvEk2cP4?si=XlFzV-4lzSL2VLAY>
 #### Description: 
 The hospital management system facilitates the synchronization of hospitals’ works by ensuring that patients’ records, doctors’schedules, and appointments are kept in one place. It is a python-based application that is dedicated to offer healthcare facilities with an efficient way of organizing and automating their administrative tasks resulting in improved overall efficiency levels and patient care.
 
