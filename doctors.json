@@ -1,1 +1,26 @@
-
+[
+    {
+        "name": "Dr. Mzila",
+        "specialty": "Cardiology"
+    },
+    {
+        "name": "Dr. Kingzulu",
+        "specialty": "Pediatrics"
+    },
+    {
+        "name": "Dr. Mpofu",
+        "specialty": "Gynaecology"
+    },
+    {
+        "name": "Dr. Khuzwayo",
+        "specialty": "ENT"
+    },
+    {
+        "name": "Dr. Smith",
+        "specialty": "Cardiology"
+    },
+    {
+        "name": "Dr. Mzila",
+        "specialty": "Cardiology"
+    }
+]
