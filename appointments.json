@@ -1,1 +1,27 @@
-
+[
+    {
+        "patient_name": "Lillian Dube",
+        "doctor_name": "Dr. Kingzulu",
+        "date": "2023-06-15"
+    },
+    {
+        "patient_name": "Mckenzie Ncube",
+        "doctor_name": "Dr. Mzila",
+        "date": "2023-07-10"
+    },
+    {
+        "patient_name": "Elma Phiri",
+        "doctor_name": "Dr. Mpofu",
+        "date": "2024-06-08"
+    },
+    {
+        "patient_name": "John Doe",
+        "doctor_name": "Dr. Smith",
+        "date": "2023-06-15"
+    },
+    {
+        "patient_name": "Mickey Mouse",
+        "doctor_name": "Dr. Mzila",
+        "date": "2023-06-15"
+    }
+]
