@@ -1,4 +1,4 @@
-# project
+# Project
  # Hospital Management System.
     #### Video Demo:  <URL HERE>
 #### Description: 
